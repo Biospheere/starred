@@ -54,9 +54,7 @@
 ## Java 
 
 - [tilesfx](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles that can be used for dashboards.
-- [server](https://github.com/NeighborhoodAid/server) - Backend project of NeighborhoodAid using Vert.x
 - [jsondb-core](https://github.com/Jsondb/jsondb-core) - JsonDB a pure java database that stores its data as Json Files
-- [WatchDog](https://github.com/sysquare-it/WatchDog) - A moderation bot for Discord guilds.
 - [XChart](https://github.com/knowm/XChart) - XChart is a light-weight Java library for plotting data.
 - [dialogflow-webhook-boilerplate-java](https://github.com/actions-on-google/dialogflow-webhook-boilerplate-java) - Webhook Boilerplate using the Java client library for Actions on Google
 - [catnip](https://github.com/mewna/catnip) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
@@ -76,12 +74,10 @@
 - [ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
-- [ftp](https://github.com/matthiaaas/ftp) - React based Electron (S)FTP desktop application
 - [sample-template-nodejs](https://github.com/twilio-labs/sample-template-nodejs) - A template repository serving as the base for new Twilio sample apps
 - [posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [scrubber](https://github.com/Deeplocal/scrubber) - Scrubber is your handwashing soundtrack — 20 seconds of music selected right from your most played Spotify tracks of the week and played straight from your soap dispenser.
 - [vertx-vue-oauth2](https://github.com/vertx-stack/vertx-vue-oauth2) - example how to use vertx with Google OAuth2
-- [c](https://github.com/JMPerez/c) - A collaborative listening room using Spotify
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -108,6 +104,7 @@
 
 ## Others 
 
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [winmin-instructions](https://github.com/vlinkz/winmin-instructions) - Instructions on installing the Winmin prerelease
 - [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) - A curated list of official, development-related Discord server
 - [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
