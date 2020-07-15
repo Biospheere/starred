@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [C++](#c++)
+  - [CSS](#css)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -32,6 +33,10 @@
 - [arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
+
+## CSS 
+
+- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 ## Dockerfile 
 
@@ -72,6 +77,7 @@
 
 ## JavaScript 
 
+- [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -138,7 +144,7 @@
 
 ## Ruby 
 
-- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
+- [forem](https://github.com/forem/forem) - “For empowering community”
 
 ## Shell 
 
