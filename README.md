@@ -145,7 +145,7 @@
 
 ## Ruby 
 
-- [forem](https://github.com/forem/forem) - For empowering community
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## Shell 
 
