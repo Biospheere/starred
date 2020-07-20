@@ -13,6 +13,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
   - [Others](#others)
@@ -102,6 +103,10 @@
 - [embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [web-speech-api](https://github.com/mdn/web-speech-api) - A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+
+## Jupyter Notebook 
+
+- [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper High-Resolution Daytime Translation Without Domain Labels (CVPR2020, Oral)
 
 ## Kotlin 
 
