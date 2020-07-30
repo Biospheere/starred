@@ -137,6 +137,7 @@
 
 ## Python 
 
+- [choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
 - [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [Clash-Royale-AI-Card-Tracker](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker) - An application that trains 2 convolutional neural networks to be able to make predictions during a live match (real-time application), on the opponent's card deck, card cycle, and current elixir.
@@ -164,6 +165,7 @@
 
 ## TypeScript 
 
+- [now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
 - [random-daily-drive](https://github.com/Fensterbank/random-daily-drive) - A playlist generator for spotify based on your favorite songs and recommendations.
 
 
