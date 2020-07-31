@@ -61,6 +61,8 @@
 
 ## Java 
 
+- [jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
+- [kube_vertx_demo](https://github.com/amoAHCP/kube_vertx_demo) - A Kubernetes, Vert.x/Hazelcast/vxms demo
 - [sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices) - Two applications in different branches illustrates how to create asynchronous microservices with Vert.x, Consul and MongoDB, and how to secure them with Vert.x OAuth2 module and Keycloak
 - [vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
 - [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
