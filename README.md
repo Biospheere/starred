@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
@@ -61,6 +62,8 @@
 
 ## Java 
 
+- [spoticord](https://github.com/Biospheere/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
+- [promcord](https://github.com/Biospheere/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
 - [jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
 - [kube_vertx_demo](https://github.com/amoAHCP/kube_vertx_demo) - A Kubernetes, Vert.x/Hazelcast/vxms demo
 - [sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices) - Two applications in different branches illustrates how to create asynchronous microservices with Vert.x, Consul and MongoDB, and how to secure them with Vert.x OAuth2 module and Keycloak
