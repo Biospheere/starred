@@ -95,7 +95,6 @@
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [sample-template-nodejs](https://github.com/twilio-labs/sample-template-nodejs) - A template repository serving as the base for new Twilio sample apps
-- [posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [scrubber](https://github.com/Deeplocal/scrubber) - Scrubber is your handwashing soundtrack — 20 seconds of music selected right from your most played Spotify tracks of the week and played straight from your soap dispenser.
 - [vertx-vue-oauth2](https://github.com/vertx-stack/vertx-vue-oauth2) - example how to use vertx with Google OAuth2
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
@@ -145,6 +144,7 @@
 
 - [choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
 - [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
+- [posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [Clash-Royale-AI-Card-Tracker](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker) - An application that trains 2 convolutional neural networks to be able to make predictions during a live match (real-time application), on the opponent's card deck, card cycle, and current elixir.
 - [audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
