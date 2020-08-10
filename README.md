@@ -88,6 +88,8 @@
 
 ## JavaScript 
 
+- [circlhackweek](https://github.com/mrjvs/circlhackweek) - Circl discord bot game with accurate hacking and cool storyline (concept by @taydev)
+- [mouseless-landingpage](https://github.com/ueberdosis/mouseless-landingpage) - Landingpage for Mouseless
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
