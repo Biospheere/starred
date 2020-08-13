@@ -117,6 +117,7 @@
 
 ## Jupyter Notebook 
 
+- [prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [MIR-Genre-Predictor](https://github.com/christianlomboy/MIR-Genre-Predictor) - Built in Python, this project contains two classifier models that predict a song’s genre. Each model was exposed to various data points gathered from a multitude of songs.
 - [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper High-Resolution Daytime Translation Without Domain Labels (CVPR2020, Oral)
 
@@ -171,6 +172,7 @@
 
 ## Shell 
 
+- [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [craftcms](https://github.com/urbantrout/craftcms) - Craft CMS Docker Image
 - [init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 
