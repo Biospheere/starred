@@ -21,6 +21,7 @@
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
 
@@ -169,6 +170,10 @@
 
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
+
+## Rust 
+
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ## Shell 
 
