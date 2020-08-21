@@ -91,6 +91,7 @@
 
 ## JavaScript 
 
+- [action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
 - [testing-playground](https://github.com/testing-library/testing-playground) - 🐸 Simple and complete DOM testing playground that encourage good testing practices.
 - [circlhackweek](https://github.com/mrjvs/circlhackweek) - Circl discord bot game with accurate hacking and cool storyline (concept by @taydev)
 - [mouseless-landingpage](https://github.com/ueberdosis/mouseless-landingpage) - Landingpage for Mouseless
