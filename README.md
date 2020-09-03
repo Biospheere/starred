@@ -33,7 +33,7 @@
 
 - [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
 - [arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
-- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
 
 ## CSS 
@@ -91,6 +91,7 @@
 
 ## JavaScript 
 
+- [forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
 - [testing-playground](https://github.com/testing-library/testing-playground) - 🐸 Simple and complete DOM testing playground that encourage good testing practices.
