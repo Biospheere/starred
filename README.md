@@ -24,6 +24,7 @@
   - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## Assembly 
 
@@ -194,6 +195,10 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
 - [random-daily-drive](https://github.com/Fensterbank/random-daily-drive) - A playlist generator for spotify based on your favorite songs and recommendations.
+
+## Vue 
+
+- [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 
 ## License
