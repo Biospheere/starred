@@ -196,6 +196,7 @@
 
 ## TypeScript 
 
+- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
