@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
