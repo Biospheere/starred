@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [lol](https://github.com/emmabostian/lol) - 
 - [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
 - [snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
