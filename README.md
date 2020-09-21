@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
