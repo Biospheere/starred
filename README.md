@@ -191,6 +191,7 @@
 
 ## Ruby 
 
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
 
