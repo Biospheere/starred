@@ -170,6 +170,7 @@
 
 ## Python 
 
+- [Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
 - [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
