@@ -224,6 +224,8 @@
 
 ## TypeScript 
 
+- [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
+- [vscode-stories-api](https://github.com/benawad/vscode-stories-api) - api for vscode stories
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
