@@ -137,7 +137,7 @@
 - [sample-template-nodejs](https://github.com/twilio-labs/sample-template-nodejs) - A template repository serving as the base for new Twilio sample apps
 - [scrubber](https://github.com/Deeplocal/scrubber) - Scrubber is your handwashing soundtrack — 20 seconds of music selected right from your most played Spotify tracks of the week and played straight from your soap dispenser.
 - [vertx-vue-oauth2](https://github.com/vertx-stack/vertx-vue-oauth2) - example how to use vertx with Google OAuth2
-- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vuejs-websockets-example](https://github.com/latovicalmin/vuejs-websockets-example) - Basic example for the Websockets with Vue.js 2
@@ -225,7 +225,7 @@
 ## TypeScript 
 
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
-- [vscode-stories-api](https://github.com/benawad/vscode-stories-api) - api for vscode stories
+- [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
