@@ -170,6 +170,7 @@
 
 ## Others 
 
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [winmin-instructions](https://github.com/vlinkz/winmin-instructions) - Instructions on installing the Winmin prerelease
