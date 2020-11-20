@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
 - [arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
