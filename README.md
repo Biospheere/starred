@@ -234,6 +234,7 @@
 
 ## TypeScript 
 
+- [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
 - [vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
 - [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
