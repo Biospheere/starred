@@ -118,13 +118,13 @@
 
 ## JavaScript 
 
+- [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
 - [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
 - [killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [lol](https://github.com/emmabostian/lol) - 
-- [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
 - [snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -243,6 +243,7 @@
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
 - [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
