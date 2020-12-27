@@ -81,6 +81,7 @@
 
 ## HTML 
 
+- [MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
@@ -91,6 +92,7 @@
 
 ## Java 
 
+- [Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [EmojIDE](https://github.com/RubbaBoy/EmojIDE) - Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon
 - [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
 - [spoticord](https://github.com/nimarion/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
