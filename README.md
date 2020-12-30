@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
 - [diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
