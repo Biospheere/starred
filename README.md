@@ -240,6 +240,7 @@
 
 ## TypeScript 
 
+- [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users
 - [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
