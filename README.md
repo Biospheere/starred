@@ -152,7 +152,7 @@
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vuejs-websockets-example](https://github.com/latovicalmin/vuejs-websockets-example) - Basic example for the Websockets with Vue.js 2
 - [p5-multiplayer-game-starter](https://github.com/LukeGarrigan/p5-multiplayer-game-starter) - A very simple way to kick-start your multiplayer game development using express, socket.io and p5.js.
-- [derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT data
+- [derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
 - [afd-blocker-plugin](https://github.com/dieparteidiepartei/afd-blocker-plugin) - AfD Blocker Browser Plugin
 - [graph-start](https://github.com/anvaka/graph-start) - a simple graph shell to explore ideas
 - [DasKeyboard-Q-NightScout](https://github.com/shanselman/DasKeyboard-Q-NightScout) - Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
