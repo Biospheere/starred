@@ -93,6 +93,8 @@
 
 ## Java 
 
+- [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+- [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [EmojIDE](https://github.com/RubbaBoy/EmojIDE) - Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon
 - [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
@@ -179,6 +181,7 @@
 
 ## Others 
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -196,6 +199,7 @@
 
 ## Python 
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fatigue-detector](https://github.com/hhhrrrttt222111/fatigue-detector) - A Flask app that detects fatigue during online classes.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
@@ -213,7 +217,7 @@
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 
 ## R 
 
@@ -240,6 +244,7 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users
