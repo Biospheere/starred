@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
 - [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
