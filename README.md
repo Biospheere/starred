@@ -268,7 +268,6 @@
 
 ## Vue 
 
-- [nuxtjs-sample](https://github.com/walkersumida/nuxtjs-sample) - Nuxtjs sample! Typescript + Vuetify + Jest! (rails api server: https://github.com/walkersumida/rails-api-for-front)
 - [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
 - [piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
 - [is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
