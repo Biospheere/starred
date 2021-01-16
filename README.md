@@ -250,6 +250,7 @@
 
 ## TypeScript 
 
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
