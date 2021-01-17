@@ -82,6 +82,7 @@
 
 ## HTML 
 
+- [rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
