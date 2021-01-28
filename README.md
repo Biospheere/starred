@@ -100,6 +100,7 @@
 
 ## Java 
 
+- [java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
 - [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
@@ -186,6 +187,7 @@
 
 ## Kotlin 
 
+- [swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
 ## Makefile 
@@ -264,7 +266,7 @@
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP, designed for everyone using Unix pipe and even for browser users
-- [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
+- [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
 - [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
