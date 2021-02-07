@@ -102,6 +102,7 @@
 
 ## Java 
 
+- [jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
 - [java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
 - [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -288,6 +289,7 @@
 
 ## Vue 
 
+- [cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
 - [typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
 - [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
 - [piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
