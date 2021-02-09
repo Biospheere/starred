@@ -55,6 +55,7 @@
 
 ## CSS 
 
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
@@ -270,6 +271,8 @@
 
 ## TypeScript 
 
+- [ufo](https://github.com/nuxt-contrib/ufo) - URL utils for humans 👽
+- [ipx](https://github.com/nuxt-contrib/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
@@ -289,6 +292,7 @@
 
 ## Vue 
 
+- [ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
 - [cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
 - [typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
 - [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
