@@ -146,7 +146,7 @@
 - [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
-- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
+- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
 - [killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
@@ -281,7 +281,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP, designed for everyone using Unix pipe and even for browser users
+- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between any device over pure HTTP, designed for everyone using Unix pipe and even for browser users
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
