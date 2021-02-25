@@ -277,7 +277,7 @@
 
 ## TypeScript 
 
-- [dogehouse](https://github.com/benawad/dogehouse) - The home for voice conversations.
+- [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [ufo](https://github.com/nuxt-contrib/ufo) - URL utils for humans 👽
 - [ipx](https://github.com/nuxt-contrib/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
