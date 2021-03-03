@@ -271,6 +271,7 @@
 
 ## Shell 
 
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
