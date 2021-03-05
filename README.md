@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
