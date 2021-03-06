@@ -91,6 +91,7 @@
 
 ## HTML 
 
+- [Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
@@ -283,6 +284,7 @@
 
 ## TypeScript 
 
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
