@@ -290,8 +290,8 @@
 - [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [ufo](https://github.com/nuxt-contrib/ufo) - URL utils for humans 👽
-- [ipx](https://github.com/nuxt-contrib/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
+- [ufo](https://github.com/unjsio/ufo) - URL utils for humans 👽
+- [ipx](https://github.com/unjsio/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
