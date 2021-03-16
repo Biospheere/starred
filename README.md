@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
 - [ackee-module](https://github.com/nuxt-community/ackee-module) - Nuxt.js module for Ackee analytics
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
