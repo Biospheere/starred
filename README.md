@@ -33,307 +33,308 @@
 
 ## Assembly 
 
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
 
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
-- [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
+- [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 
 ## C# # 
 
-- [NoteBar](https://github.com/PavelStefanov/NoteBar) - Windows taskbar toolbar indicators
-- [SteamShutdown](https://github.com/akorb/SteamShutdown) - Automatic shutdown after Steam download(s) has finished.
+- [PavelStefanov/NoteBar](https://github.com/PavelStefanov/NoteBar) - Windows taskbar toolbar indicators
+- [akorb/SteamShutdown](https://github.com/akorb/SteamShutdown) - Automatic shutdown after Steam download(s) has finished.
 
 ## C++ 
 
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
-- [arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
+- [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
 
 ## CSS 
 
-- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 ## DIGITAL Command Language 
 
-- [blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
+- [jmdugan/blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
 
 ## Dockerfile 
 
-- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## GDScript 
 
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 
 ## Go 
 
-- [ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
-- [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
-- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
-- [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
-- [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
-- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
-- [democracy.bot](https://github.com/playnet-public/democracy.bot) - A bot for making discord servers democratic
-- [mcstatusserver](https://github.com/michivip/mcstatusserver) - A simple minecraft status server written in Golang.
+- [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+- [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
+- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
+- [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
+- [playnet-public/democracy.bot](https://github.com/playnet-public/democracy.bot) - A bot for making discord servers democratic
+- [michivip/mcstatusserver](https://github.com/michivip/mcstatusserver) - A simple minecraft status server written in Golang.
 
 ## HTML 
 
-- [Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
-- [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
-- [MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
-- [domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
-- [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-- [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-- [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
-- [all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
-- [musicScape](https://github.com/StefanAleksik/musicScape) - 
+- [tailwindtoolbox/Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
+- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
+- [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
+- [Linuzifer/domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
+- [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
+- [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
+- [StefanAleksik/musicScape](https://github.com/StefanAleksik/musicScape) - 
 
 ## Java 
 
-- [playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
-- [jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
-- [java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
-- [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
-- [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- [Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
-- [EmojIDE](https://github.com/RubbaBoy/EmojIDE) - Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon
-- [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
-- [spoticord](https://github.com/nimarion/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
-- [promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
-- [jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
-- [kube_vertx_demo](https://github.com/amoAHCP/kube_vertx_demo) - A Kubernetes, Vert.x/Hazelcast/vxms demo
-- [sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices) - Two applications in different branches illustrates how to create asynchronous microservices with Vert.x, Consul and MongoDB, and how to secure them with Vert.x OAuth2 module and Keycloak
-- [vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
-- [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
-- [tilesfx](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles that can be used for dashboards.
-- [jsondb-core](https://github.com/Jsondb/jsondb-core) - JsonDB a pure java database that stores its data as Json Files
-- [XChart](https://github.com/knowm/XChart) - XChart is a light-weight Java library for plotting data.
-- [dialogflow-webhook-boilerplate-java](https://github.com/actions-on-google/dialogflow-webhook-boilerplate-java) - Webhook Boilerplate using the Java client library for Actions on Google
-- [catnip](https://github.com/mewna/catnip) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
-- [vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
-- [JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
-- [dialogflow-facts-about-google-java](https://github.com/actions-on-google/dialogflow-facts-about-google-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow) in Java
-- [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
-- [kumo](https://github.com/kennycason/kumo) - Kumo - Java Word Cloud
-- [expiringmap](https://github.com/jhalterman/expiringmap) - A high performance thread-safe map that expires entries
-- [Github-Google-Actions](https://github.com/frogermcs/Github-Google-Actions) - Github Actions - Hello world Java/AppEngine app for Google Assistant
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- [libsignal-service-java](https://github.com/signalapp/libsignal-service-java) - A Java/Android library for communicating with the Signal messaging service.
-- [cognitivej](https://github.com/CognitiveJ/cognitivej) - Cognitive Image Analysis for Java
+- [microsoft/playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
+- [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
+- [googleapis/java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
+- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+- [RubbaBoy/EmojIDE](https://github.com/RubbaBoy/EmojIDE) - Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon
+- [cryoW0lf/SirDuck](https://github.com/cryoW0lf/SirDuck) - 
+- [nimarion/spoticord](https://github.com/nimarion/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
+- [eclipse/jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
+- [amoAHCP/kube_vertx_demo](https://github.com/amoAHCP/kube_vertx_demo) - A Kubernetes, Vert.x/Hazelcast/vxms demo
+- [piomin/sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices) - Two applications in different branches illustrates how to create asynchronous microservices with Vert.x, Consul and MongoDB, and how to secure them with Vert.x OAuth2 module and Keycloak
+- [sczyh30/vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
+- [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+- [HanSolo/tilesfx](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles that can be used for dashboards.
+- [Jsondb/jsondb-core](https://github.com/Jsondb/jsondb-core) - JsonDB a pure java database that stores its data as Json Files
+- [knowm/XChart](https://github.com/knowm/XChart) - XChart is a light-weight Java library for plotting data.
+- [actions-on-google/dialogflow-webhook-boilerplate-java](https://github.com/actions-on-google/dialogflow-webhook-boilerplate-java) - Webhook Boilerplate using the Java client library for Actions on Google
+- [mewna/catnip](https://github.com/mewna/catnip) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
+- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
+- [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
+- [actions-on-google/dialogflow-facts-about-google-java](https://github.com/actions-on-google/dialogflow-facts-about-google-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow) in Java
+- [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+- [kennycason/kumo](https://github.com/kennycason/kumo) - Kumo - Java Word Cloud
+- [jhalterman/expiringmap](https://github.com/jhalterman/expiringmap) - A high performance thread-safe map that expires entries
+- [frogermcs/Github-Google-Actions](https://github.com/frogermcs/Github-Google-Actions) - Github Actions - Hello world Java/AppEngine app for Google Assistant
+- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+- [signalapp/libsignal-service-java](https://github.com/signalapp/libsignal-service-java) - A Java/Android library for communicating with the Signal messaging service.
+- [CognitiveJ/cognitivej](https://github.com/CognitiveJ/cognitivej) - Cognitive Image Analysis for Java
 
 ## JavaScript 
 
-- [medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
-- [filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
-- [ackee-module](https://github.com/nuxt-community/ackee-module) - Nuxt.js module for Ackee analytics
-- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
-- [dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
-- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-- [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
-- [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
-- [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-- [router-extras-module](https://github.com/nuxt-community/router-extras-module) - Extra Add-ons For Nuxt Router
-- [content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
-- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
-- [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
-- [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
-- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
-- [killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
-- [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
-- [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
-- [lol](https://github.com/emmabostian/lol) - 
-- [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
-- [snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
-- [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
-- [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
-- [action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
-- [testing-playground](https://github.com/testing-library/testing-playground) - 🐸 Simple and complete DOM testing playground that encourage good testing practices.
-- [circlhackweek](https://github.com/mrjvs/circlhackweek) - Circl discord bot game with accurate hacking and cool storyline (concept by @taydev)
-- [mouseless-landingpage](https://github.com/ueberdosis/mouseless-landingpage) - Landingpage for Mouseless
-- [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
-- [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
-- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
-- [sample-template-nodejs](https://github.com/twilio-labs/sample-template-nodejs) - A template repository serving as the base for new Twilio sample apps
-- [scrubber](https://github.com/Deeplocal/scrubber) - Scrubber is your handwashing soundtrack — 20 seconds of music selected right from your most played Spotify tracks of the week and played straight from your soap dispenser.
-- [vertx-vue-oauth2](https://github.com/vertx-stack/vertx-vue-oauth2) - example how to use vertx with Google OAuth2
-- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
-- [dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
-- [vuejs-websockets-example](https://github.com/latovicalmin/vuejs-websockets-example) - Basic example for the Websockets with Vue.js 2
-- [p5-multiplayer-game-starter](https://github.com/LukeGarrigan/p5-multiplayer-game-starter) - A very simple way to kick-start your multiplayer game development using express, socket.io and p5.js.
-- [derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
-- [afd-blocker-plugin](https://github.com/dieparteidiepartei/afd-blocker-plugin) - AfD Blocker Browser Plugin
-- [graph-start](https://github.com/anvaka/graph-start) - a simple graph shell to explore ideas
-- [DasKeyboard-Q-NightScout](https://github.com/shanselman/DasKeyboard-Q-NightScout) - Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
-- [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [oadf-parser-seltec3-pdf](https://github.com/oadf/oadf-parser-seltec3-pdf) - A parser for SELTEC3 PDF result list files which puts tha data into a GraphQL schema
-- [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
-- [embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
-- [web-speech-api](https://github.com/mdn/web-speech-api) - A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
-- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
+- [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+- [nuxt-community/ackee-module](https://github.com/nuxt-community/ackee-module) - Nuxt.js module for Ackee analytics
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
+- [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
+- [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [strapi/strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
+- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+- [nuxt-community/router-extras-module](https://github.com/nuxt-community/router-extras-module) - Extra Add-ons For Nuxt Router
+- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
+- [chakra-ui/chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
+- [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [MattIPv4/hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
+- [amiede/htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
+- [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
+- [emmabostian/lol](https://github.com/emmabostian/lol) - 
+- [jantimon/favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
+- [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [forem/forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
+- [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
+- [TerabyteTiger/action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
+- [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - 🐸 Simple and complete DOM testing playground that encourage good testing practices.
+- [mrjvs/circlhackweek](https://github.com/mrjvs/circlhackweek) - Circl discord bot game with accurate hacking and cool storyline (concept by @taydev)
+- [ueberdosis/mouseless-landingpage](https://github.com/ueberdosis/mouseless-landingpage) - Landingpage for Mouseless
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
+- [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
+- [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
+- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
+- [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
+- [twilio-labs/sample-template-nodejs](https://github.com/twilio-labs/sample-template-nodejs) - A template repository serving as the base for new Twilio sample apps
+- [Deeplocal/scrubber](https://github.com/Deeplocal/scrubber) - Scrubber is your handwashing soundtrack — 20 seconds of music selected right from your most played Spotify tracks of the week and played straight from your soap dispenser.
+- [vertx-stack/vertx-vue-oauth2](https://github.com/vertx-stack/vertx-vue-oauth2) - example how to use vertx with Google OAuth2
+- [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
+- [Shopify/dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+- [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+- [latovicalmin/vuejs-websockets-example](https://github.com/latovicalmin/vuejs-websockets-example) - Basic example for the Websockets with Vue.js 2
+- [LukeGarrigan/p5-multiplayer-game-starter](https://github.com/LukeGarrigan/p5-multiplayer-game-starter) - A very simple way to kick-start your multiplayer game development using express, socket.io and p5.js.
+- [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
+- [dieparteidiepartei/afd-blocker-plugin](https://github.com/dieparteidiepartei/afd-blocker-plugin) - AfD Blocker Browser Plugin
+- [anvaka/graph-start](https://github.com/anvaka/graph-start) - a simple graph shell to explore ideas
+- [shanselman/DasKeyboard-Q-NightScout](https://github.com/shanselman/DasKeyboard-Q-NightScout) - Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
+- [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [oadf/oadf-parser-seltec3-pdf](https://github.com/oadf/oadf-parser-seltec3-pdf) - A parser for SELTEC3 PDF result list files which puts tha data into a GraphQL schema
+- [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
+- [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
+- [mdn/web-speech-api](https://github.com/mdn/web-speech-api) - A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 
 ## Jupyter Notebook 
 
-- [prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
-- [MIR-Genre-Predictor](https://github.com/christianlomboy/MIR-Genre-Predictor) - Built in Python, this project contains two classifier models that predict a song’s genre. Each model was exposed to various data points gathered from a multitude of songs.
-- [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
+- [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
+- [christianlomboy/MIR-Genre-Predictor](https://github.com/christianlomboy/MIR-Genre-Predictor) - Built in Python, this project contains two classifier models that predict a song’s genre. Each model was exposed to various data points gathered from a multitude of songs.
+- [saic-mdal/HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 
 ## Kotlin 
 
-- [swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
-- [javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
+- [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
 ## Makefile 
 
-- [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Others 
 
-- [advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [winmin-instructions](https://github.com/vlinkz/winmin-instructions) - Instructions on installing the Winmin prerelease
-- [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) - A curated list of official, development-related Discord server
-- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
-- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [vlinkz/winmin-instructions](https://github.com/vlinkz/winmin-instructions) - Instructions on installing the Winmin prerelease
+- [ljosberinn/awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) - A curated list of official, development-related Discord server
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+- [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
+- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## PHP 
 
-- [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- [oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- [wrav/oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
 
 ## Python 
 
-- [teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
-- [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
-- [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
-- [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [fatigue-detector](https://github.com/hhhrrrttt222111/fatigue-detector) - A Flask app that detects fatigue during online classes.
-- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
-- [GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
-- [Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
-- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
-- [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
-- [posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
-- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [Clash-Royale-AI-Card-Tracker](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker) - An application that trains 2 convolutional neural networks to be able to make predictions during a live match (real-time application), on the opponent's card deck, card cycle, and current elixir.
-- [audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
-- [cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - Fully convolutional deep neural network to remove transparent overlays from images
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
-- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [seibert-media/teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
+- [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
+- [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
+- [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [hhhrrrttt222111/fatigue-detector](https://github.com/hhhrrrttt222111/fatigue-detector) - A Flask app that detects fatigue during online classes.
+- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
+- [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [andrewcooke/choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
+- [google/ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
+- [AmarSaini/Clash-Royale-AI-Card-Tracker](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker) - An application that trains 2 convolutional neural networks to be able to make predictions during a live match (real-time application), on the opponent's card deck, card cycle, and current elixir.
+- [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+- [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - Fully convolutional deep neural network to remove transparent overlays from images
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 
 ## R 
 
-- [strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data
-- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
+- [marcusvolz/strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data
+- [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 
 ## Ruby 
 
-- [hacktoberfest](https://github.com/digitalocean/hacktoberfest) - Hacktoberfest - App to manage the annual open source challenge.
-- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
-- [forem](https://github.com/forem/forem) - For empowering community 🌱
+- [digitalocean/hacktoberfest](https://github.com/digitalocean/hacktoberfest) - Hacktoberfest - App to manage the annual open source challenge.
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [Shopify/krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## Rust 
 
-- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ## SCSS 
 
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 
 ## Shell 
 
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
-- [dotfiles](https://github.com/lus/dotfiles) - The dotfiles for my personal Arch Linux environment
-- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
-- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
-- [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-- [craftcms](https://github.com/urbantrout/craftcms) - Craft CMS Docker Image
-- [init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [lus/dotfiles](https://github.com/lus/dotfiles) - The dotfiles for my personal Arch Linux environment
+- [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
+- [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
+- [urbantrout/craftcms](https://github.com/urbantrout/craftcms) - Craft CMS Docker Image
+- [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 
 ## TypeScript 
 
-- [nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
-- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
-- [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
-- [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
-- [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
-- [hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
-- [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [ufo](https://github.com/unjs/ufo) - URL utils for humans
-- [ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
-- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
-- [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between any device over pure HTTP, designed for everyone using Unix pipe and even for browser users
-- [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
-- [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
-- [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
-- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
-- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
-- [random-daily-drive](https://github.com/Fensterbank/random-daily-drive) - A playlist generator for spotify based on your favorite songs and recommendations.
+- [danielroe/nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+- [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
+- [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans
+- [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [benawad/vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between any device over pure HTTP, designed for everyone using Unix pipe and even for browser users
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
+- [benawad/vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
+- [ide-stories/vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [dazuaz/responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [hoovercj/vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [JoshLmao/now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
+- [Fensterbank/random-daily-drive](https://github.com/Fensterbank/random-daily-drive) - A playlist generator for spotify based on your favorite songs and recommendations.
 
 ## Vue 
 
-- [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
-- [ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
-- [cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
-- [typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
-- [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
-- [piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
-- [is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
-- [gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
-- [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
+- [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
+- [egoist/ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
+- [cherscarlett/cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
+- [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
+- [Hanziness/AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
+- [nwtgck/piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
+- [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
+- [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
+- [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 
 ## License
