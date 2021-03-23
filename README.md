@@ -139,6 +139,7 @@
 
 ## JavaScript 
 
+- [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl) - :headphones: Implements MPRIS interface for chrome
 - [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
