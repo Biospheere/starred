@@ -92,6 +92,7 @@
 
 ## HTML 
 
+- [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [tailwindtoolbox/Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
@@ -259,7 +260,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 
 ## R 
@@ -327,6 +328,7 @@
 
 ## Vue 
 
+- [altinselimi/kalendar](https://github.com/altinselimi/kalendar) - Full featured, responsive, lightweight calendar in the browser.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [egoist/ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
 - [cherscarlett/cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
