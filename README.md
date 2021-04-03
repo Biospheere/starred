@@ -147,6 +147,7 @@
 
 ## JavaScript 
 
+- [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
 - [leereilly/github-high-scores](https://github.com/leereilly/github-high-scores) - :space_invader: 8-bit, 80s-tastic aracdey GitHub contributions viewing environment.
@@ -184,7 +185,7 @@
 - [forem/forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [TerabyteTiger/action-happyPR](https://github.com/TerabyteTiger/action-happyPR) - GitHub Action to check tone of PR
-- [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - 🐸 Simple and complete DOM testing playground that encourage good testing practices.
+- [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - Simple and complete DOM testing playground that encourage good testing practices.
 - [mrjvs/circlhackweek](https://github.com/mrjvs/circlhackweek) - Circl discord bot game with accurate hacking and cool storyline (concept by @taydev)
 - [ueberdosis/mouseless-landingpage](https://github.com/ueberdosis/mouseless-landingpage) - Landingpage for Mouseless
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
