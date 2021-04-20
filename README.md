@@ -56,6 +56,7 @@
 
 ## CSS 
 
+- [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
