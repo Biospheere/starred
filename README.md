@@ -15,6 +15,7 @@
   - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -113,6 +114,10 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [StefanAleksik/musicScape](https://github.com/StefanAleksik/musicScape) - 
+
+## Haskell 
+
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
 
@@ -302,6 +307,7 @@
 
 ## Rust 
 
+- [codetheweb/aoede](https://github.com/codetheweb/aoede) - 🎧 a self-hosted Spotify -&gt; Discord music bot
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ## SCSS 
