@@ -342,7 +342,7 @@
 - [danielroe/nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
-- [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+- [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
