@@ -21,6 +21,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [Nunjucks](#nunjucks)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -158,6 +159,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pqina/vue-filepond](https://github.com/pqina/vue-filepond) - 🔌 A handy FilePond adapter component for Vue
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
@@ -244,6 +246,10 @@
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+
+## Nunjucks 
+
+- [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 
 ## Others 
 
@@ -343,7 +349,6 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
