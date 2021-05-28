@@ -275,6 +275,7 @@
 
 ## Python 
 
+- [alfonsrv/impf-botpy](https://github.com/alfonsrv/impf-botpy) - Impf Bot.py 🐍⚡ – Automatisierung für den Corona ImpfterminService Bot
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [seibert-media/teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
