@@ -105,6 +105,7 @@
 
 ## HTML 
 
+- [TobseF/impf-bot](https://github.com/TobseF/impf-bot) - 💉🤖 Bot for the German "ImpfterminService - 116117"
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [tailwindtoolbox/Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
