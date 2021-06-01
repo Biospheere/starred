@@ -341,7 +341,7 @@
 
 ## TeX 
 
-- [sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) - Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Anfänger verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge für die Erstellung von LaTeX-Dokumenten.
+- [sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) - Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge für die Erstellung von LaTeX-Dokumenten.
 
 ## TypeScript 
 
