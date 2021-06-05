@@ -125,6 +125,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [Kaktushose/jda-commands](https://github.com/Kaktushose/jda-commands) - A simple yet highly customizable, annotation driven command framework for JDA
@@ -242,6 +243,7 @@
 
 ## Kotlin 
 
+- [holisticon/vertx-kotlin-example](https://github.com/holisticon/vertx-kotlin-example) - This is an example for building a microservice using a technology stack based on Vert.x and Kotlin
 - [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
@@ -276,6 +278,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [alfonsrv/impf-botpy](https://github.com/alfonsrv/impf-botpy) - Impf Bot.py 🐍⚡ – Automatisierung für den Corona ImpfterminService Bot
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
