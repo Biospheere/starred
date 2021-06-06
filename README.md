@@ -130,7 +130,7 @@
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [Kaktushose/jda-commands](https://github.com/Kaktushose/jda-commands) - A simple yet highly customizable, annotation driven command framework for JDA
 - [microsoft/playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
-- [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
+- [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands (and message components) for JDA
 - [googleapis/java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
