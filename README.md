@@ -12,6 +12,7 @@
   - [CSS](#css)
   - [DIGITAL Command Language](#digital-command-language)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
@@ -72,6 +73,10 @@
 
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+## EJS 
+
+- [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report) - 📈 CLI tool to generate performance reports of websites using the self-hosted analytics tool Ackee.
 
 ## GDScript 
 
