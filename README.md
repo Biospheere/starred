@@ -25,6 +25,7 @@
   - [Nunjucks](#nunjucks)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
@@ -168,6 +169,8 @@
 
 ## JavaScript 
 
+- [electerious/use-ackee](https://github.com/electerious/use-ackee) - Use Ackee in React.
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -285,6 +288,10 @@
 
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [wrav/oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
+
+## PowerShell 
+
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Python 
 
