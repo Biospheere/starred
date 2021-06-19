@@ -131,6 +131,7 @@
 
 ## Java 
 
+- [thomasdarimont/vertx-playground](https://github.com/thomasdarimont/vertx-playground) - Some experiments with the Vert.x Web Framework
 - [Redempt/Crunch](https://github.com/Redempt/Crunch) - The fastest Java library for compiling and evaluating mathematical expressions with variables
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
@@ -169,6 +170,8 @@
 
 ## JavaScript 
 
+- [vinissimus/next-translate](https://github.com/vinissimus/next-translate) - Next.js plugin + i18n API for Next.js 10 🌍  -  Load page translations and use them in an easy way!
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - An example project that shows how to use NextAuth.js
 - [electerious/use-ackee](https://github.com/electerious/use-ackee) - Use Ackee in React.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -269,6 +272,7 @@
 
 ## Others 
 
+- [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
@@ -365,6 +369,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
