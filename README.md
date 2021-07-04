@@ -112,6 +112,7 @@
 
 ## HTML 
 
+- [tailwindtoolbox/Screenshot-Landing-Page](https://github.com/tailwindtoolbox/Screenshot-Landing-Page) - Tailwind CSS Starter Template - Screenshot Landing Page
 - [UnderMybrella/EternalJukebox](https://github.com/UnderMybrella/EternalJukebox) - The internal workings for the Eternal Jukebox, a rehosting of the Infinite Jukebox
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [tailwindtoolbox/Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
