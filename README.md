@@ -189,7 +189,7 @@
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) - the t-rex runner game extracted from chromium
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
-- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+- [maizzle/framework](https://github.com/maizzle/framework) - The Maizzle Framework.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
 - [leereilly/github-high-scores](https://github.com/leereilly/github-high-scores) - :space_invader: 8-bit, 80s-tastic aracdey GitHub contributions viewing environment.
 - [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl) - :headphones: Implements MPRIS interface for chrome
@@ -278,6 +278,7 @@
 
 ## Others 
 
+- [sueddeutsche/afd-im-bundestag](https://github.com/sueddeutsche/afd-im-bundestag) - Das gespaltene Parlament - Seit einem halben Jahr sitzt wieder eine rechte Partei im Bundestag. Was hat sich mit dem Einzug der AfD ins Hohe Haus verändert?
 - [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
@@ -340,6 +341,7 @@
 
 ## Ruby 
 
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [digitalocean/hacktoberfest](https://github.com/digitalocean/hacktoberfest) - Hacktoberfest - App to manage the annual open source challenge.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Shopify/krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
