@@ -135,6 +135,7 @@
 
 ## Java 
 
+- [PierreSchwang/Netty-Packet](https://github.com/PierreSchwang/Netty-Packet) - Simple & Lightweight Netty packet library + event system
 - [apache/mina-sshd](https://github.com/apache/mina-sshd) - Mirror of Apache MINA SSHD
 - [thomasdarimont/vertx-playground](https://github.com/thomasdarimont/vertx-playground) - Some experiments with the Vert.x Web Framework
 - [Redempt/Crunch](https://github.com/Redempt/Crunch) - The fastest Java library for compiling and evaluating mathematical expressions with variables
