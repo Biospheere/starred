@@ -334,7 +334,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [andrewcooke/choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
 - [google/ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [AmarSaini/Clash-Royale-AI-Card-Tracker](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker) - An application that trains 2 convolutional neural networks to be able to make predictions during a live match (real-time application), on the opponent's card deck, card cycle, and current elixir.
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
