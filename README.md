@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [lus/spaceship](https://github.com/lus/spaceship) - An extendable, lightweight and annotation-based web framework written in Java
 - [sueddeutsche/afd-im-bundestag](https://github.com/sueddeutsche/afd-im-bundestag) - Das gespaltene Parlament - Seit einem halben Jahr sitzt wieder eine rechte Partei im Bundestag. Was hat sich mit dem Einzug der AfD ins Hohe Haus verändert?
 - [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
