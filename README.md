@@ -360,7 +360,7 @@
 
 ## Rust 
 
-- [codetheweb/aoede](https://github.com/codetheweb/aoede) - 🎧 a self-hosted Spotify -&gt; Discord music bot
+- [codetheweb/aoede](https://github.com/codetheweb/aoede) - 🎧 a self-hosted Spotify → Discord music bot
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ## SCSS 
