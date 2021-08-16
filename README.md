@@ -393,6 +393,7 @@
 
 ## TypeScript 
 
+- [marcelreppi/moodle-buddy](https://github.com/marcelreppi/moodle-buddy) - Moodle Buddy is a browser plugin that offers mass download and notification functionality to the Moodle learning management platform
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
